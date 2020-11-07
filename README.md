@@ -3,4 +3,4 @@ Developing a set of classifiers that can decrease the time taken to detect a bra
 
 Data source: [Kaggle](https://www.kaggle.com/jakeshbohaju/brain-tumor)
 
-Work done by Samar Dikshit and Jerry Adamns Franklin.
+Work done by Samar Dikshit and Jerry Adams Franklin.
